@@ -10,3 +10,5 @@ Contenidos del repositorio:
 		-TRM del Cortex M4
 		
 5 de Septiembre de 2018	-	Proyecto basico Hello Word
+
+16 de Septiembre de 2018 -	Proyecto encendido de leds con punteros
