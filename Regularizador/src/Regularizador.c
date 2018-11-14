@@ -1,10 +1,10 @@
 /*
 ===============================================================================
  Name        : Regularizador.c
- Author      : $(author)
- Version     :
- Copyright   : $(copyright)
- Description : main definition
+ Author      : Fabian Nardone
+ Version     : 1.0
+ Copyright   : Creative Commons
+ Description : Trabajo Practico Regularizador
 ===============================================================================
 */
 
